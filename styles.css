@@ -50,15 +50,15 @@ body {
 .cart-items {
   position: absolute;
   top: 5px;
-  right: 8px;
+  right: 4%;
   background: var(--primaryColor);
   padding: 0 5px;
   border-radius: 30%;
   color: var(--mainWhite);
 }
-@media (min-width: 992px) {
+@media (min-width: 1296px) {
   .cart-items {
-  right: 8%;
+  right: 12%;
   }
 }
 /* --------------- End of Navbar ---------------- */
